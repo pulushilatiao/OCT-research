@@ -3,3 +3,8 @@ Miniconda3-latest-Linux-x86_64.sh
 *.engine
 *.onnx
 *.engine
+yolov8n.pt
+*.pt
+*.engine
+*.onnx
+SplitDataset/
